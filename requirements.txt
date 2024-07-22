@@ -1,0 +1,16 @@
+# requirements.txt
+flask
+pyyaml
+openai
+numpy
+spacy
+scikit-learn
+gensim
+torch
+transformers
+requests
+textblob
+beautifulsoup4
+nltk
+langdetect
+readability
